@@ -23,7 +23,7 @@
 
 **ИСПОЛЬЗУЕМЫЕ БИБЛИОТЕКИ**
 - pandas
-- matplotlib
+- matplotlib.pyplot
 - seaborn
 - Counter
 - Mystem
