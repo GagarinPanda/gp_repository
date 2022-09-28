@@ -95,5 +95,5 @@
 
 - pandas
 - matplotlib.pyplot
-- stats
+- scipy.stats
 - numpy
