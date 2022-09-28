@@ -26,6 +26,6 @@
 
 **ИСПОЛЬЗУЕМЫЕ БИБЛИОТЕКИ**
 - pandas
-- matplotlib
-- stats
+- matplotlib.pyplot
+- scipy.stats
 - numpy
