@@ -56,4 +56,4 @@
 - matplotlib.pyplot
 - seaborn
 - numpy
-- stats
+- scipy.stats
