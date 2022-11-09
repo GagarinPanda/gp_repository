@@ -3,11 +3,12 @@
 - пользователи в возрастном диапазоне от 26 до 35 лет включительно
 
 WITH
-x AS (SELEct userid
+
+x AS (SELECT userid
       FROM Users
   	  Where age >= 18 AND age <= 25),
 
-y AS (SELEct userid
+y AS (SELECT userid
       FROM Users
   	  Where age >= 26 AND age <= 35)
       
